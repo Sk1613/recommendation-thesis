@@ -1,6 +1,8 @@
 # Recommendation Research 👩‍💻
 
-## Aim: My aim is to facilitate and accelerate the literature review for researchers who are starting to work with recommendation systems. For this reason, I compiled the sources that I examined during my own research process.🙌
+## Aim
+
+My aim is to facilitate and accelerate the literature review for researchers who are starting to work with recommendation systems. For this reason, I compiled the sources that I examined during my own research process.🙌
 
 If there is anything you want to add, remove or edit, contact me: sengulkaraderili@gmail.com
 
